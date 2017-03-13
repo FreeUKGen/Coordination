@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+  <path id="C" d="M24,32.936l0,31.064l-24.161,-12.081l0,-31.064l24.161,12.081Z"/>
+  <path id="B" d="M24,32.936l0,31.064l24.161,-12.081l0,-31.064l-24.161,12.081Z"/>
+  <path id="A" d="M-0.161,20.855l24.161,-12.08l24.161,12.08l-24.161,12.081l-24.161,-12.081Z"/>
+  <path id="Slot" d="M16.234,18.698l3.452,-1.726l12.08,6.041l-3.452,1.725l-12.08,-6.04Z" style="fill:none;"/>
+  <clipPath id="Clip1">
+    <path d="M16.234,18.698l3.452,-1.726l12.08,6.041l-3.452,1.725l-12.08,-6.04Z"/>
+  </clipPath>
+  <g clip-path="url(#Clip1)">
+    <path id="C" d="M16.234,18.698l3.452,-1.726l12.08,6.041l-3.452,1.725l-12.08,-6.04Z"/>
+    <path id="B" d="M19.686,16.972l0,3.452l-3.452,-1.726l3.452,-1.726Z"/>
+    <path id="Black" d="M16.234,20.424l3.452,-1.726l12.08,6.04l-3.452,1.726l-12.08,-6.04Z" style="fill-opacity:0.804348;"/>
+  </g>
+</svg>
